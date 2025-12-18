@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4b4e06fd-a0c8-4c4b-962e-5e799ffbd484" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;isaacbenit&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/isaacbenit/askomdchTest.git&quot;,
+    &quot;accountId&quot;: &quot;b827e24b-0a90-4627-b8ec-742b99febbfc&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="36sTiso3bFeV9pXkvR576BgYA7k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.AccountTest.LogOut.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AccountTest.login.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AccountTest.register.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BaseTest.LoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BaseTest.beforeMethod.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CheckOutPageTest.checkOut.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.StorePageTests.StorePageTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.StorePageTests.addToCart.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.StorePageTests.checkOut.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.StorePageTests.checkingProductUpdate.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.StorePageTests.deleteProductTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.StorePageTests.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.StorePageTests.filterByPrice.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.StorePageTests.filterProduct.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.StorePageTests.searchProduct.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.StorePageTests.sortProduct.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.productDetailTest.addToCartOnProductDetailTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.productDetailTest.productDetailTest.executor&quot;: &quot;Run&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java learning/Projects/askomdchTest&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Java learning/Projects/askomdchTest/src/main/java/org/example/Main.java&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.productDetailTest.addToCartOnProductDetailTest">
+    <configuration name="AccountTest.LogOut" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="askomdchTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Account" />
+      <option name="MAIN_CLASS_NAME" value="Account.AccountTest" />
+      <option name="METHOD_NAME" value="LogOut" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest.login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="askomdchTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Account" />
+      <option name="MAIN_CLASS_NAME" value="Account.AccountTest" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest.register" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="askomdchTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Account" />
+      <option name="MAIN_CLASS_NAME" value="Account.AccountTest" />
+      <option name="METHOD_NAME" value="register" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="productDetailTest.addToCartOnProductDetailTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="askomdchTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="productDetail.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="productDetail" />
+      <option name="MAIN_CLASS_NAME" value="productDetail.productDetailTest" />
+      <option name="METHOD_NAME" value="addToCartOnProductDetailTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="productDetailTest.productDetailTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="askomdchTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="productDetail.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="productDetail" />
+      <option name="MAIN_CLASS_NAME" value="productDetail.productDetailTest" />
+      <option name="METHOD_NAME" value="productDetailTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.productDetailTest.addToCartOnProductDetailTest" />
+        <item itemvalue="TestNG.AccountTest.LogOut" />
+        <item itemvalue="TestNG.productDetailTest.productDetailTest" />
+        <item itemvalue="TestNG.AccountTest.login" />
+        <item itemvalue="TestNG.AccountTest.register" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b4e06fd-a0c8-4c4b-962e-5e799ffbd484" name="Changes" comment="" />
+      <created>1765794414147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765794414147</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
