@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b4e06fd-a0c8-4c4b-962e-5e799ffbd484" name="Changes" comment="" />
+    <list default="true" id="4b4e06fd-a0c8-4c4b-962e-5e799ffbd484" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/AccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/CheckoutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/ProductDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/StorePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Account/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/cart/cartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/checkout/CheckOutPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/productDetail/productDetailTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/store/StorePageTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +64,6 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;TestNG.AccountTest.LogOut.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.AccountTest.login.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.AccountTest.register.executor&quot;: &quot;Run&quot;,
@@ -65,7 +83,7 @@
     &quot;TestNG.productDetailTest.addToCartOnProductDetailTest.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.productDetailTest.productDetailTest.executor&quot;: &quot;Run&quot;,
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Java learning/Projects/askomdchTest&quot;,
